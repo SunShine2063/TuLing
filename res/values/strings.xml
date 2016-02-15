@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TuLing</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="send">发送</string>
+
+    <string-array name="welcome">
+        <item>主人，小灵等你多时了</item>
+        <item>主人，近来可好</item>
+        <item>主人，今天心情可好啊</item>
+        <item>主人，你要是不开心就和我说说吧</item>
+    </string-array>
+</resources>
